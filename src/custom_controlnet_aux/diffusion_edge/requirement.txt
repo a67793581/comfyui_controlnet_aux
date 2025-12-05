@@ -7,3 +7,4 @@ fvcore
 albumentations
 omegaconf
 numpy==1.23.5
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
